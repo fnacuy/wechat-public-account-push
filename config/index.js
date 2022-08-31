@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "6fcba8f534cd324246f3613fa76c02d0",
 
     // 模板消息id
-    TEMPLATE_ID: "aJUObnz825yfbVIAH2X75Z1MUgbtBo8c9oLq7F5RmCo",
+    TEMPLATE_ID: "jysmpXxJqtejTTUkQvNsI-NWg0v8TQmDC3zghFBsrE4",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "oky0v5v5PUt8zunxQVXOTuxewQ0s",
@@ -53,7 +53,7 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "茶宝生日", "year": "2022", "date": "10-16"},
+      {"type": "生日", "name": "茶宝生日", "year": "2022", "date": "10-19"},
       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
       {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
@@ -67,8 +67,8 @@ export const config = {
 
     // 在一起的日子，格式同上
     LOVE_DATE: "2022-08-20",
-    // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    // 宝宝生日🎂
+    birthday_DATE: "2022-10-19",
 
 
     /** 每日一言 */
