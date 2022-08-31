@@ -4,10 +4,10 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxea9184862d33d23f",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "33a855a7c2650a566a62ec1c64ebef3b",
 
     // 模板消息id
     TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
