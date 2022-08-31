@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "6fcba8f534cd324246f3613fa76c02d0",
 
     // 模板消息id
-    TEMPLATE_ID: "jysmpXxJqtejTTUkQvNsI-NWg0v8TQmDC3zghFBsrE4",
+    TEMPLATE_ID: "TQFQC5iNYsILO9PHe67IY8BCeleSGIsf4FtoA_vLrXM",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "oky0v5v5PUt8zunxQVXOTuxewQ0s",
@@ -53,10 +53,10 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "茶宝生日", "year": "2022", "date": "10-19"},
-      {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
-      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
+      {"type": "生日", "name": "茶宝", "year": "2022", "date": "10-19"},
+      {"type": "生日", "name": "四七", "year": "2023", "date": "07-10"},
+      //{"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
+      {"type": "节日", "name": "第一次见面", "year": "2022", "date": "08-20"},
     ],
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
@@ -66,7 +66,7 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2022-08-20",
+    LOVE_DATE: "2022-08-12",
     // 宝宝生日🎂
     birthday_DATE: "2022-10-19",
 
